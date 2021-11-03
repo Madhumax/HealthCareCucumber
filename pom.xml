@@ -22,7 +22,7 @@
         <version>2.19.1</version>
          <configuration>
           <includes>
-          <include>**/Runner.java</include>
+          <include>**/HealthCareRunner.java</include>
           </includes>
         </configuration>
         
